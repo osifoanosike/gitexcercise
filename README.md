@@ -1,4 +1,4 @@
 gitexcercise
 ============
 
-Git Excercise 
+Test Project to illustrate solutions to Git Assignment
